@@ -29,7 +29,6 @@ def cadastrar_novo_restaurante():
     input('Digite uma tecla para voltar ao menu principal: ')
     main()
 
-# código omitido
 
 def listar_restaurantes():
     os.system('cls')
